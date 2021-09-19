@@ -11,7 +11,7 @@ const Card = ({menuData}) => {
                 return (
                     <>
                 <div className="card-container" key={currElem.id}> 
-                <div className="company-name">Company Name</div>
+                <div className="company-name">xCoders</div>
                 <img className="profile" src={currElem.image} alt="" />
                 <div className="id-card">ID Card</div>
                 <div className="name">{currElem.name}</div>

@@ -17,7 +17,7 @@ const Main = () => {
         <>
             <nav>
                 <ol className="list">
-                    <li className="heading">Employee Details</li>
+                    <li className="heading">xCoders</li>
                     <li ><button className="button" onClick={toggleCardVisiblity}>Get User</button></li>
                 </ol>
             </nav>
